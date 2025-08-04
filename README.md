@@ -96,7 +96,7 @@ git clone https://github.com/yourusername/breast-cancer-cnn.git
 cd breast-cancer-cnn
 pip install -r requirements.txt
 
-🗂️ Project Structure
+##🗂️ Project Structure
 📁 Breast_Cancer/
 │
 ├── Breast_Cancer.ipynb          # Main Jupyter notebook
@@ -107,18 +107,25 @@ pip install -r requirements.txt
 ├── README.md                    # Project documentation
 ├── .gitignore                   # Git ignore list
 
-🔐 License
-This project is licensed under the MIT License. You are free to use, modify, and distribute it with attribution.
 
-See MIT License.txt for details.
+---
 
-🙌 Acknowledgments
-Kaggle Dataset
+## 🔐 License
 
-TensorFlow/Keras for the deep learning framework
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute it with attribution.
 
-Python and open-source contributors
+See `MIT License.txt` for details.
 
-🤝 Contributions
+---
+
+## 🙌 Acknowledgments
+
+- [Kaggle Dataset](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images)
+- TensorFlow/Keras for the deep learning framework
+- Python and open-source contributors
+
+---
+
+## 🤝 Contributions
+
 Pull requests are welcome. Feel free to fork this repo, make changes, and submit improvements.
-
