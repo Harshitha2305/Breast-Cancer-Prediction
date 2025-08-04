@@ -96,7 +96,7 @@ git clone https://github.com/yourusername/breast-cancer-cnn.git
 cd breast-cancer-cnn
 pip install -r requirements.txt
 
-##🗂️ Project Structure
+🗂️ Project Structure
 
 📁 Breast_Cancer/
 │
@@ -107,9 +107,6 @@ pip install -r requirements.txt
 ├── MIT License.txt              # License
 ├── README.md                    # Project documentation
 ├── .gitignore                   # Git ignore list
-
-
----
 
 🔐 License
 
