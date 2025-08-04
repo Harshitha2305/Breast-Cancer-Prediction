@@ -111,22 +111,20 @@ pip install -r requirements.txt
 
 ---
 
-## 🔐 License
+🔐 License
 
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute it with attribution.
 
 See `MIT License.txt` for details.
 
----
 
-## 🙌 Acknowledgments
+🙌 Acknowledgments
 
 - [Kaggle Dataset](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images)
 - TensorFlow/Keras for the deep learning framework
 - Python and open-source contributors
 
----
 
-## 🤝 Contributions
+🤝 Contributions
 
 Pull requests are welcome. Feel free to fork this repo, make changes, and submit improvements.
