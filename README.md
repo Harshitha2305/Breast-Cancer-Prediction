@@ -97,6 +97,7 @@ cd breast-cancer-cnn
 pip install -r requirements.txt
 
 ##🗂️ Project Structure
+
 📁 Breast_Cancer/
 │
 ├── Breast_Cancer.ipynb          # Main Jupyter notebook
