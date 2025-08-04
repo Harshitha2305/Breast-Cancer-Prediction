@@ -1,0 +1,23 @@
+# Ignore dataset folder
+IDC_dataset/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Numpy binary data files
+*.npy
+
+# Ignore model files (optional)
+*.h5
+*.hdf5
+*.pb
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment
+.env/
+.venv/
+__pycache__/
+*.py[cod]
